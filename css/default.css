@@ -125,6 +125,9 @@ table {
       Skeleton CSS Framework - http://www.getskeleton.com/
       Typeplate Typographic Starter Kit - http://typeplate.com/
 /* ------------------------------------------------------------------ */
+.blackos {
+   color: black;
+}
 .h2class h2 {
    color: #e4ce43;
 }
