@@ -126,7 +126,7 @@ table {
       Typeplate Typographic Starter Kit - http://typeplate.com/
 /* ------------------------------------------------------------------ */
 .blackos {
-   color: black;
+   color: black !important;
 }
 .h2class h2 {
    color: #e4ce43;
